@@ -1,0 +1,117 @@
+header{
+    background-color: black;
+    padding: 20px;
+ }
+ body{
+     background-color: black;
+ }
+ul li{
+    padding: 10px 10px;
+}
+
+ul li a{
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+
+}
+h1{
+    size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    size: 40px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.six{
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    font-weight: 20px;
+    
+}
+.first{
+    size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 140px;
+}
+.img1{
+    padding: 60 0 60 0 ;
+}
+.img2{
+    padding: 30 0 80 10;
+    float: left; 
+    margin-left: 30px;
+    margin-top: -170px;
+}
+.img3{
+    padding-top: 30;
+    padding-right: 0;
+    padding-bottom: 80;
+    padding-left: 10 ;
+    margin-left: 60;
+    margin-top: -170px;
+    float: left; 
+}
+.img4{
+    padding-top:30 ;
+    padding-right: 0 ;
+    padding-bottom: 80 ;
+    padding-left: 10 ;
+    margin-top: -170px;
+    margin-left: 70px;
+}
+.second{
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-right: 200px;
+    margin-right: 40px;
+}
+.white{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.third{
+    font-size: 12px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 0 0 60;
+
+}
+.third1{
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  
+
+}
+.navbar-centre{
+    position: absolute;
+    left: 50%;
+    transform: translateX(50%);
+}
+.desc{ 
+    background-color: white;
+     height: 30px;
+     width: 190px; 
+      color: black; 
+      padding: 5 5 5 10;
+      font-family: 'Times New Roman', Times, serif;
+       font-size: 15px;
+       margin-top: 50px;
+       margin-left: -190px;
+    float: left;}  
+.desc1{ 
+    background-color: white;
+    height: 30px;
+    width: 190px; 
+ color: black; 
+    padding: 5 5 5 10;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+     margin-top: -80px;
+    margin-left: 570px;}  
